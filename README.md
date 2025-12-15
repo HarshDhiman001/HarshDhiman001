@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Dhiman - AI-Driven SaaS Developer & Entrepreneur
 
 [![GitHub followers](https://img.shields.io/github/followers/HarshDhiman001?style=social)](https://github.com/HarshDhiman001)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HarshDhiman?style=social)](https://twitter.com/HarshDhiman)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/er-harsh-dhiman-377058190)
 
 ## 🚀 About Me
 
@@ -72,10 +72,9 @@ Designing comprehensive email automation and CRM integration workflows for cold 
 ## 📫 Get in Touch
 
 - 💼 **LinkedIn**: [linkedin.com/in/er-harsh-dhiman](https://www.linkedin.com/in/er-harsh-dhiman-377058190)
-- 🐦 **Twitter**: [@HarshDhiman](https://twitter.com/HarshDhiman)
-- 📧 **Email**: harsh@visionx.ai
-- 🌐 **Portfolio**: [visionx.ai](https://visionx.ai)
-- 📱 **Instagram**: [@official_harsh0](https://www.instagram.com/official_harsh0/)
+- 📧 **Email**: [hello@vixion.in](mailto:hello@vixion.in)
+- 🌐 **Website**: [vixion.in](https://vixion.in)
+- 📱 **Instagram**: [@dhiman_hxrsh](https://www.instagram.com/dhiman_hxrsh/)
 
 ---
 
