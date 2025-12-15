@@ -41,7 +41,7 @@ I'm a **full-stack developer** and **founder of VisionX**, building AI-driven Sa
 
 ## 📊 Key Projects
 
-### [VisionX](https://visionx.ai) - AI-Driven Lead Generation Platform
+### [VisionX](https://vixion.in/) (URL- vixion.in) - AI-Driven Lead Generation Platform
 An intelligent SaaS solution that uses AI to identify and engage potential leads for businesses in education and healthcare sectors.
 
 ### Educational Platforms
